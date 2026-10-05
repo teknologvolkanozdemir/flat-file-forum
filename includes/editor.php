@@ -1,0 +1,1 @@
+<div class="toolbar"><button type="button" data-bb="b">B</button><button type="button" data-bb="i">I</button><button type="button" data-bb="code">Kod</button><button type="button" data-bb="quote">Alıntı</button></div>
